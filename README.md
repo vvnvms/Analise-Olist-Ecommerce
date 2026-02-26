@@ -22,7 +22,7 @@ Análise de dados reais de e-commerce brasileiro com foco em insights de negóci
 
 ## Aviso
 O GitHub por padrão não renderiza mapas interativos, como temos um grafico de mapa interativo, que não aparece no GitHub, estou disponibilizando um link onde ele possa ser vizualizado:
-[NBviewer - Mapa Interativo](https://nbviewer.org/github/vvnvms/Analise-Olist-Ecommerce/blob/main/VV_Analise_Olist_Final.ipynb)
+[NBviewer - Mapa Interativo](https://nbviewer.org/github/vvnvms/Analise-Olist-Ecommerce/blob/1b26da8c4bc5c5dbfd3db9e916a34900cfca4da6/Analise_Olist_Notebook.ipynb)
 
 
 ## Dataset
